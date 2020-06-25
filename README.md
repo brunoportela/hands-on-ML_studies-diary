@@ -1,7 +1,7 @@
 # hands-on-ML_studies-diary
 
-In this repository, I will register my progress while studying with the 
-"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition" book, by Aurélien Géron.
+In this repository, I will register my progress while studying with the book
+"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition", by Aurélien Géron.
 
 I will create folders for each chapter with my notes, exercises resolutions and relevant material.
 
